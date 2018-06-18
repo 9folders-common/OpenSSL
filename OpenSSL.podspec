@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'OpenSSL'
-  s.version = '1.0.210'
+  s.version = '1.0.2o'
   s.license = { :type => 'OpenSSL (OpenSSL/SSLeay)', :file => 'LICENSE' }
   s.summary = 'binary build of openSSL'
   s.homepage = 'http://www.9folders.com/'
