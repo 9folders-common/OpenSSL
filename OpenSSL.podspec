@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'OpenSSL-iOS-Binary'
+  s.name = 'OpenSSL'
   s.version = '1.0.210'
   s.license = { :type => 'OpenSSL (OpenSSL/SSLeay)', :file => 'LICENSE' }
   s.summary = 'binary build of openSSL'
